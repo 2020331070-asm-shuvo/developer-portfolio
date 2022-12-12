@@ -11,7 +11,7 @@ span {
     color: orange;
 }
 
-section {
+.flexible-container {
     display: flex;
     margin-bottom: 100px;
 }
@@ -20,9 +20,7 @@ section {
     width: 50%;
 }
 
-.half-width img {
-    width: 80%;
-}
+.half-width img {}
 
 .link-btn {
     color: wheat;
