@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    font-family: 'Martian Mono', monospace;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+span {
+    color: orange;
+}
+
+section {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+}
+
+.half-width img {
+    width: 80%;
+}
+
+.link-btn {
+    color: wheat;
+    font-weight: 700;
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    border-radius: 6px;
+}
+
+.topbanner {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
